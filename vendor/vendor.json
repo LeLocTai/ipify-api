@@ -12,43 +12,6 @@
 		]
 	},
 	"ignore": "test",
-	"package": [
-		{
-			"checksumSHA1": "emNpmDJ5CabRabvQZzn9xRAMIN8=",
-			"path": "github.com/julienschmidt/httprouter",
-			"revision": "4563b0ba73e4db6c6423b60a26f3cadd2e9a1ec9",
-			"revisionTime": "2016-10-23T14:40:33Z"
-		},
-		{
-			"checksumSHA1": "ScbtXxkHVh0j84Ex0epTpgZoc9o=",
-			"path": "github.com/rdegges/ipify-api/api",
-			"revision": "741e4bfb03add3377eb30d92ba589efdf1ac9d46",
-			"revisionTime": "2015-09-29T03:09:15Z"
-		},
-		{
-			"checksumSHA1": "hLtWk4hxC/5xgw37+t5jRvHOOHw=",
-			"path": "github.com/rdegges/ipify-api/models",
-			"revision": "741e4bfb03add3377eb30d92ba589efdf1ac9d46",
-			"revisionTime": "2015-09-29T03:09:15Z"
-		},
-		{
-			"checksumSHA1": "OpqXzG/TsirRRiSxa+hCSOfaQ0k=",
-			"path": "github.com/rs/cors",
-			"revision": "a62a804a8a009876ca59105f7899938a1349f4b3",
-			"revisionTime": "2016-06-17T23:19:35Z"
-		},
-		{
-			"checksumSHA1": "c4NinZs0gcDUkXx375li6epE8K0=",
-			"path": "github.com/rs/xhandler",
-			"revision": "ed27b6fd65218132ee50cd95f38474a3d8a2cd12",
-			"revisionTime": "2016-06-18T19:32:21Z"
-		},
-		{
-			"checksumSHA1": "4hQNaJUg67lF/QcO0NKzUeqlaew=",
-			"path": "golang.org/x/net/context",
-			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
-			"revisionTime": "2016-11-03T00:14:07Z"
-		}
-	],
+	"package": [],
 	"rootPath": "ipify-api"
 }
