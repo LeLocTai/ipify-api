@@ -1,14 +1,17 @@
 {
-    "rootPath": "github.com/LeLocTai/ipify-api",
-    "heroku": {
-        "install" : [
+	"comment": "",
+	"heroku": {
+		"goVersion": "go1.7",
+		"install": [
 			"github.com/julienschmidt/httprouter",
 			"github.com/rdegges/ipify-api/api",
 			"github.com/rs/cors",
 			"log",
 			"net/http",
-			"os" 
-		],
-        "goVersion": "go1.6"
-    }
+			"os"
+		]
+	},
+	"ignore": "test",
+	"package": [],
+	"rootPath": "ipify-api"
 }
