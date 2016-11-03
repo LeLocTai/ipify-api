@@ -3,9 +3,7 @@
     "heroku": {
         "goVersion": "go1.7",
         "install": [
-            "github.com/julienschmidt/httprouter",
-            "github.com/rdegges/ipify-api/api",
-            "github.com/rs/cors"
+            "./..."
         ]
     },
     "ignore": "test",
