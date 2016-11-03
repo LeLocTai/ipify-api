@@ -6,7 +6,7 @@
 	"github.com/rs/cors",
 	"log",
 	"net/http",
-	"os", ],
+	"os" ],
         "goVersion": "go1.6"
          },
 }
