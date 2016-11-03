@@ -1,1 +1,1 @@
-web: ipify-api
+web: llt-getip
